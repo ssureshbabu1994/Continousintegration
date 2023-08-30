@@ -1,0 +1,68 @@
+Katalon studio 
+
+Mode in Katalon Studio:
+
+1] Record the web
+====================
+http://demoaut.katalon.com/
+
+- create  a new testcse
+- click on the record web
+-provide application url and start recording[http://demoaut.katalon.com/]
+- save the testscript and objects
+-Run & verify
+
+2] How to create a test in manual mode
+
+- create a testcase
+-spy the object required for the test`
+- on main toolbar spy web and located and store the objects[https://opensource-demo.orangehrmlive.com/web/index.php/auth/login]
+- Add the keyword in the testcase as  required[Click on the keyword browser--> select the open browser and drag into the testcase]
+- save and run
+
+
+3] how to create Testscript mode
+
+- create a testcase
+-spy the object required for the test`
+- on main toolbar spy web and located and store the objects[https://opensource-demo.orangehrmlive.com/web/index.php/auth/login]
+- save the object
+- Go to the script for teststep
+-create a scripts for teststeps
+-Run and verify the execution
+
+Regular Exception--> It is a squence of character that we used for matching some particular string 
+
+
+
+
+TESTSUITE:
+==========
+1]What is test suite?
+-TestSuite= collection of testcase
+
+2]How To create TestSuite ?
+-Right click on the Testsuite-->select the Testsuite option & create
+- Update execution formation section as needed
+
+
+
+
+
+TestSuite feature and execution?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
