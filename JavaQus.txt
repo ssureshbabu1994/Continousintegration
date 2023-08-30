@@ -1,0 +1,5 @@
+What is java?
+How many phase has java?
+-Development - file should saved the test.java
+-Compiler 
+-Execution
